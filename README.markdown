@@ -1,7 +1,7 @@
 neco-sorter-length
 ==================
 
-sorter of [neocomplcache](https://github.com/Shougo/neocomplcache)
+sorter for [neocomplcache](https://github.com/Shougo/neocomplcache)
 
 about
 -----
